@@ -1,5 +1,5 @@
 # Compiler-for-scheme
-a working compiler for a sub language of scheme
+a working compiler for a sub language of scheme.
 There are 4 main modules:
 1. Reader - Transforms a string into an S-expression list
 2. Tag Parser - Transforms the sexpr list into an exspression list - a list of meaningful expressions in the scheme language
